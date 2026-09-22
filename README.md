@@ -1,8 +1,8 @@
-# Hi 👋 I'm Duong Dinh Manh
+# Hi I'm Duong Dinh Manh
 
-🚀 Full Stack Developer | 🤖 AI Product Engineer
-🚀 Building AI-powered web applications
-📍 Ha Noi, Vietnam
+ Full Stack Developer |  AI Product Engineer
+ Building AI-powered web applications
+ Ha Noi, Vietnam
 
 ## Tech Stack
 
@@ -17,9 +17,9 @@
 
 ## Current Project
 
-🎬 Movie Streaming Platform
-📚 Study Platform
-📚 e-commerce website
+ Movie Streaming Platform
+ Study Platform
+ e-commerce website
 
 ## Contact
 Email: duongdinhmanh002@gmail.com
