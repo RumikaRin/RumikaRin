@@ -14,27 +14,27 @@
 
 ---
 
-### Engineering Profile
+### Engineering Focus
 
-Full-Stack Software Engineer and AI Product Engineer based in Hanoi, Vietnam, focusing on modern web platforms, AI infrastructure gateways, and deterministic procedural graphics:
+Software Engineer based in Hanoi, Vietnam. Building resilient web systems, AI infrastructure gateways, and deterministic procedural graphics:
 
-- **Architecture & Security:** Zero-Style CSP with per-request dynamic nonces, RFC 6238 TOTP MFA, Database Session Registries with instant revocation, and atomic concurrency ledgers with deterministic lock ordering.
-- **AI Infrastructure & Tooling:** Reverse-proxy adapters with multi-account pooling and automatic HTTP 429 failover, enterprise RAG knowledge pipelines, and multi-agent orchestration systems.
-- **Creative Engineering:** Deterministic pure-function video generation engines (`window.seek(t)`), interactive 3D Spline experiences, and canvas layer blending.
-- **Verification & Reliability:** Test-Driven Development (TDD) with multi-tiered quality gates (Unit, PostgreSQL Docker Integration, OpenAPI 3.1 contracts, WCAG contrast audits, and Playwright E2E browser testing).
+- **Architecture & Security:** Zero-Style CSP (dynamic nonces), RFC 6238 TOTP MFA, concurrency-safe transactional ledgers.
+- **AI Infrastructure:** Reverse-proxy gateways with account pooling & 429 auto-failover, enterprise RAG, multi-agent tooling.
+- **Creative Engineering:** Deterministic pure-function video engines (`window.seek(t)`), 3D Spline, canvas graphics.
+- **Testing & Quality:** TDD with Docker integration, OpenAPI 3.1 contracts, Playwright E2E suites (100/100 QA score).
 
 ---
 
-### Featured Engineering Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RumikaRin/Maison-de-FLOF">Maison de FLOF</a></h3>
-      <p><em>Atelier Architectural Paint E-Commerce & Interactive Visualizer</em></p>
+      <p><em>Atelier Paint E-Commerce & Interactive Visualizer</em></p>
       <ul>
-        <li>Next.js 15 App Router, React 19, Tailwind CSS, Prisma 6, Neon PostgreSQL.</li>
-        <li><strong>Architecture Highlights:</strong> Zero-Style CSP (zero inline <code>style="..."</code>), RFC 6238 TOTP MFA (AES-256 encrypted, Scrypt backup codes), transactional outbox pattern, VNPay & VietQR checkouts, AI Paint Consultant with SSRF-isolated RAG, 344 unit tests with 100% CI pass rate (gstack QA 100/100).</li>
+        <li>Next.js 15, React 19, Tailwind CSS, Prisma 6, Neon PostgreSQL.</li>
+        <li>Zero-Style CSP, RFC 6238 TOTP MFA, transactional outbox, SSRF-isolated RAG, and 344 unit/contract tests (100% CI pass).</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js" />
@@ -45,11 +45,11 @@ Full-Stack Software Engineer and AI Product Engineer based in Hanoi, Vietnam, fo
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/RumikaRin/gemini-web-adapter">Gemini Web Adapter & CLI Bridge</a></h3>
-      <p><em>Reverse-Proxy LLM Infrastructure & Protocol Bridge</em></p>
+      <h3><a href="https://github.com/RumikaRin/gemini-web-adapter">Gemini Web Adapter</a></h3>
+      <p><em>Reverse-Proxy AI Gateway & Protocol Bridge</em></p>
       <ul>
-        <li>Transforms browser-based Google Gemini session web cookies into a full-featured OpenAI-compatible REST API (<code>/v1/models</code>, <code>/v1/chat/completions</code>).</li>
-        <li><strong>Features:</strong> Multi-account session pooling, Google <code>batchexecute</code> RPC handling, auto-failover on HTTP 429 rate limits, live Web Dashboard, and tool-calling bridge for CLI agents (Claude Code, OpenCode).</li>
+        <li>Converts Gemini web sessions into OpenAI-compatible endpoints (<code>/v1/chat/completions</code>).</li>
+        <li>Multi-account session pooling, Google RPC handling, 429 rate-limit auto-failover, and CLI agent bridge.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" />
@@ -62,10 +62,10 @@ Full-Stack Software Engineer and AI Product Engineer based in Hanoi, Vietnam, fo
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RumikaRin/VideoStudio">Motion Studio</a></h3>
-      <p><em>Deterministic Procedural 2D Video & Animation Engine</em></p>
+      <p><em>Deterministic Procedural 2D Animation Engine</em></p>
       <ul>
-        <li>A pure-function procedural animation renderer where video is code: <code>window.seek(t)</code> paints the exact frame for any timestamp <code>t</code>.</li>
-        <li><strong>Capabilities:</strong> Spring physics, responsive aspect ratios (16:9, 9:16, 1:1), GSAP timelines, audio DSP synchronization, and headless subframe MP4 rendering pipeline.</li>
+        <li>Pure-function animation renderer where <code>window.seek(t)</code> deterministically computes exact frames.</li>
+        <li>Spring physics, GSAP timelines, Python audio DSP, and headless subframe MP4 rendering pipeline.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -76,10 +76,10 @@ Full-Stack Software Engineer and AI Product Engineer based in Hanoi, Vietnam, fo
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RumikaRin/CrimsonGarden">Crimson Garden</a></h3>
-      <p><em>Smart English Learning & Adaptive Exam Platform</em></p>
+      <p><em>Adaptive English Learning & Exam Platform</em></p>
       <ul>
-        <li>Full-stack adaptive education platform featuring interactive 3D Spline experiences, gamified assessment engines, and real-time performance analytics.</li>
-        <li>Next.js, TypeScript, Radix UI, TanStack Query, Prisma ORM, and Vitest test coverage.</li>
+        <li>Next.js, React 19, TypeScript, Radix UI, TanStack Query, Prisma ORM, Vitest.</li>
+        <li>Interactive 3D Spline canvases, PixiJS graphics, and real-time adaptive performance testing.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
@@ -92,10 +92,10 @@ Full-Stack Software Engineer and AI Product Engineer based in Hanoi, Vietnam, fo
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RumikaRin/FinGLow">FinGlow</a></h3>
-      <p><em>Personal Wealth & Finance Tracker (Local-First Architecture)</em></p>
+      <p><em>Local-First Personal Finance Tracker</em></p>
       <ul>
         <li>Cross-platform mobile application developed with Flutter and Dart.</li>
-        <li>Built on a privacy-first, local-first storage paradigm with optional encrypted cloud synchronization powered by Supabase.</li>
+        <li>Privacy-first local storage architecture with optional encrypted cloud synchronization via Supabase.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter" />
@@ -106,9 +106,10 @@ Full-Stack Software Engineer and AI Product Engineer based in Hanoi, Vietnam, fo
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RumikaRin/AuroraHotel">Aurora Hotel</a></h3>
-      <p><em>Hospitality Booking Platform with Strict Quality Verification</em></p>
+      <p><em>Hospitality Booking Platform & Verification Suite</em></p>
       <ul>
-        <li>Hotel booking solution featuring automated design-system verification locks, dynamic room pricing, automated database backup/restore scripts, and Playwright E2E suites.</li>
+        <li>Next.js, TypeScript, Tailwind CSS, PostgreSQL.</li>
+        <li>Automated design token verification locks, dynamic pricing, and comprehensive Playwright E2E test suites.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
