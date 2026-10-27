@@ -32,6 +32,7 @@ Software Engineer based in Hanoi, Vietnam. Specializing in full-stack web platfo
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RumikaRin/Maison-de-FLOF">Maison de FLOF</a></h3>
       <p><em>Paint e-commerce platform & color visualizer</em></p>
+      <p><e>maisondeflof.rumika.id.vn/vi</e></p>
       <ul>
         <li>Next.js 15, React 19, Tailwind CSS, Prisma 6, Neon PostgreSQL.</li>
         <li>Strict CSP with per-request nonces, TOTP 2FA, transactional outbox, and VNPay integration.</li>
@@ -75,6 +76,7 @@ Software Engineer based in Hanoi, Vietnam. Specializing in full-stack web platfo
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RumikaRin/CrimsonGarden">Crimson Garden</a></h3>
+      <p><e>crimsongarden.rumika.id.vn/</e></p>
       <p><em>Interactive English learning & exam platform</em></p>
       <ul>
         <li>Next.js, React 19, TypeScript, Radix UI, TanStack Query, Prisma 6.</li>
